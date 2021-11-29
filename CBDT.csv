@@ -1,0 +1,131 @@
+year,country,continent,style,conditions,updates,authority,continent,ecodev
+1973,Sweden,FL,PSC,[FD(1999) FD(2019)],CA,EU,HI
+1974,America,AR,S,[PD(2011)],SA,NA,HI
+1977,German,FL,PSC,[FD(2013) TD(2019)],CA,EU,HI
+1978,France,FL,PSC,[FD(2016)],CA,EU,HI
+1978,Austria,FL,PSC,[],CA,EU,HI
+1978,Denmark,FL,PSC,[FD(2006) FD(2007)],CA,EU,HI
+1978,Norway,FL,PSC,[],CA,EU,HI
+1979,Luxembourg,FL,PSC,[FD(2012)],CA,EU,HI
+1981,Israel,FL,PSC,[],CA,AS,HI
+1982,Canada,AR,S,[],CA,NA,HI
+1983,San Marino,FL,PSC,[],CA,EU,HI
+1984,United Kingdom,FL,PSC,[FD(2006) HD(2014)],CA,EU,HI
+1987,Finland,FL,PSC,[FD(1997)],CA,EU,HI
+1988,Australia,FL,PSC,[HD(2012)],CA,OC,HI
+1988,Ireland,FL,PSC,[],CA,EU,HI
+1988,The Netherlands,FL,PSC,[PD(1995)],CA,EU,HI
+1989,Iceland,FL,PSC,[],CA,EU,HI
+1990,Slovenia,FL,PSC,[],CA,EU,HI
+1991,Portugal,FL,PSC,[],CA,EU,HI
+1992,Belgium,FL,PSC,[FD(1992) FD(2005)],CA,EU,HI
+1992,Czechia,FL,PSC,[],CA,EU,HI
+1992,Hungary,FL,PSC,[],CA,EU,HI
+1992,Slovakia,FL,PSC,[],CA,EU,HI
+1992,Spain,FL,PSC,[],CA,EU,HI
+1992,Switzerland,FL,PSC,[],CA,EU,HI
+1993,Monaco,FL,PSC,[],CA,EU,HI
+1993,New Zealand,FL,P,[FD(2010)],CA,OC,HI
+1994,South Korea,FL,C,[FD(2016) PD(2019)],CA,AS,HI
+1995,Japan,FL,PC,[],CA,AS,HI
+1996,Italy,FL,PSC,[FD(1972)],CA,EU,HI
+1996,Lithuania,FL,PSC,[],CA,EU,HI
+1997,Greece,FL,PSC,[PD(2011)],CA,EU,HI
+1997,Poland,FL,PSC,[FD(2009)],CA,EU,HI
+1997,Thailand,FL,PC,[],CA,AS,UM
+1998,Azerbaijan,FL,PC,[],SA,AS,UM
+1999,Albania,FL,PC,[],CA,EU,UM
+1999,Chile,FL,C,[FD(2019)],-,SA,HI
+2000,Argentina,FL,PC,[PD(2017)],CA,SA,UM
+2000,Latvia,FL,PSC,[],CA,EU,HI
+2001,Cabo Verde,FL,PC,[],CA,AF,LM
+2001,Chad,FL,P,[],CA,AF,LI
+2001,Cyprus,FL,PSC,[PD(2007)],CA,EU,HI
+2001,Malta,FL,PSC,[],CA,EU,HI
+2001,Romania,FL,PSC,[FD(2015)],CA,EU,HI
+2001,Bosnia & Herzegovina,FL,PSC,[],CA,EU,UM
+2002,Armenia,FL,PC,[],CA,AS,UM
+2002,Bulgaria,FL,PSC,[FD(2012)],CA,EU,UM
+2002,Liechtenstein,FL,PSC,[],CA,EU,HI
+2002,Paraguay,FL,FF,[],-,SA,UM
+2002,Zimbabwe,FL,FF,[],-,AF,LM
+2003,Andorra,FL,P,[],CA,EU,HI
+2003,Bahama,FL,PS,[],CA,NA,HI
+2003,Croatia,FL,PSC,[],CA,EU,HI
+2003,Estonia,FL,PSC,[],CA,EU,HI
+2003,Seychelles,FL,C,[],-,AF,HI
+2004,Burkina Faso,FL,P,[],CA,AF,LI
+2004,Mauritius,FL,PC,[],CA,AF,HI
+2004,Tunisia,FL,PC,[],CA,AF,LM
+2005,Macedonia,FL,PC,[],CA,EU,UM
+2006,Russia,FL,PC,[FD(2009) FD(2012) FD(2013) FD(2014) TD(2014) TD(2016) TD(2018) PD(2019)],CA,EU,UM
+2007,Moldova,FL,PC,[],CA,EU,LM
+2007,UAE,AR,C,[HD(2019)],SA,AS,HI
+2008,Columbia,FL,PC,[PD(2018)],SA,SA,UM
+2008,Kyrgyzstan,FL,PC,[],-,AS,LM
+2008,Montenegro,FL,PC,[],CA,EU,UM
+2008,Senegal,FL,AP,[PD(2019)],CA,AF,LM
+2008,Serbia,FL,PSC,[],CA,EU,UM
+2008,Uruguay,FL,PSC,[],CA,SA,HI
+2009,Benin,FL,PS,[],CA,AF,LM
+2009,Morocco,FL,PC,[],CA,AF,LM
+2009,Ethiopia,AR,FF,[],-,AF,LI
+2010,Malaysia,FL,PC,[FD(2019)],CA,AS,UM
+2010,Mexico,FL,C,[FD(2019)],CA,NA,UM
+2010,Vietnam,AR,C,"[TD(2018) PD(2018) FD(2018)]",SA,AS,LM
+2011,Angola,AR,PS,[],CA,AF,LM
+2011,Costa Rica,AR,C,[],CA,NA,UM
+2011,Gabon,FL,PC,[],CA,AF,UM
+2011,India,AR,PSC,[PD(1993) TD(2007) PD(2012) FD(2013) PD(2017) TD(2017) PD(2017) FD(2018)],SA,AS,LM
+2011,Lesotho,FL,P,[],CA,AF,LM
+2011,Peru,FL,PSC,[PD(2019)],SA,SA,UM
+2011,Trinidad & Tobago,FL,PC,[],SA,NA,UM
+2011,Ukraine,FL,PC,[],-,EU,LM
+2012,Georgia,FL,PC,[],CA,AS,UM
+2012,Ghana,FL,FF,[FD(2019)],CA,AF,LM
+2012,Philippines,FL,FF,[FD(2018)],CA,AS,LM
+2012,Singapore,FL,SC,[],CA,AS,HI
+2012,Yemen,AR,AP,[],-,AS,LI
+2012,Saint Lucia,FL,FF,[],CA,NA,UM
+2013,Antigua & Barbuda,FL,FF,[],CA,NA,HI
+2013,Cote d-Ivoire,FL,AP,[],CA,AF,LM
+2013,Dominican,FL,C,[],-,NA,UM
+2013,Kazakhstan,FL,PC,[TD(2004) TD(2005) TD(2010) FD(2013)],SA,AS,UM
+2013,Mali,FL,PS,[],CA,AF,LI
+2013,South Africa,FL,SC,[FD(2018)],CA,AF,UM
+2014,Hondurans,AR,C,[],SA,NA,LM
+2015,Madagascar,FL,PC,[],CA,AF,LI
+2015,Ecuador,AR,FF,[],CA,SA,UM
+2016,Turkey,FL,P,[PD(2008) FD(2013) FD(2018) PD(2019)],CA,AS,UM
+2016,Equatorial Guinea,FL,PS,[],-,AF,UM
+2016,Qatar,FL,P,[],CA,AS,HI
+2016,Sao Tome & Principe,FL,PC,[],-,AF,LM
+2016,Indonesia,AR,C,[PD(2016)],SA,AS,UM
+2016,Malawi,AR,FF,[],-,AF,LI
+2016,Belarus,FL,C,[],-,EU,UM
+2016,Guatemala,AR,C,[],-,NA,UM
+2016,China,AR,SC,[TD(2000) FD(2006) FD(2011) FD(2013) HD(2014) FD(2016) PD(2016) PD(2017) PD(2018) FD(2019) HD(2019) FD(2019)],SA,AS,UM
+2017,Niger,FL,P,[],CA,AF,LI
+2017,Mauritania,FL,S,[],CA,AF,LM
+2017,El Salvador,AR,FF,[],-,NA,LM
+2017,Jamaica,FL,SC,[],-,NA,UM
+2017,Saudi Arabia,AR,FF,[FD(2018)],-,AS,HI
+2017,Turkmenistan,FL,C,[],-,AS,UM
+2018,Algeria,FL,C,[FD(2018)],CA,AF,LM
+2018,St Kitts & Nevis,FL,C,[],-,NA,HI
+2018,Brazil,FL,PS,[PD(2018)],CA,SA,UM
+2018,Bahrain,FL,AP,[],CA,AS,HI
+2018,Panama,FL,SC,[],SA,NA,HI
+2018,Lebanon,FL,FF,[],-,AS,UM
+2018,Bhutan,FL,AP,[],SA,AS,LM
+2018,Barbados,FL,PS,[],CA,NA,HI
+2018,Egypt,FL,SC,[],CA,AS,LM
+2018,Iran,AR,SC,[],-,AS,UM
+2018,Kenya,FL,P,[PD(2016)],CA,AF,LM
+2018,Zambia,FL,C,[],CA,AF,LM
+2018,Botswana,FL,P,[],CA,AF,UM
+2018,Tajikistan,FL,SC,[],-,AS,LI
+2019,Uganda,FL,SC,[],CA,AF,LI
+2019,Nigeria,FL,SC,[FD(2011) TD(2015)],CA,AF,LM
+2019,Togo,FL,SC,[],CA,AF,LI
+2019,Uzbekistan,FL,SC,[],CA,AS,LM
